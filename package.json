@@ -1,0 +1,22 @@
+{
+  "name": "3.4-cloud-native-application-containerization-i",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangkhnic/3.4-cloud-native-application-containerization-i.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangkhnic/3.4-cloud-native-application-containerization-i/issues"
+  },
+  "homepage": "https://github.com/tangkhnic/3.4-cloud-native-application-containerization-i#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
